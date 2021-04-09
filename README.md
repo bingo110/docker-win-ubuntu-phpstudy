@@ -19,5 +19,6 @@
         #xp 回车根据弹出的提示选择，容器创建好默认是需要手动启动一下的，启动成功后，不出意外根据登陆信息本机就可打开小皮面板
   ```
   #效果
+  
     ![aa](https://yubinself123.gitee.io/docker-ubuntu-phpstudy/images/1.png)
     ![aa](https://yubinself123.gitee.io/docker-ubuntu-phpstudy/images/2.png)
