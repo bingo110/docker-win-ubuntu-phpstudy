@@ -20,3 +20,4 @@
   ```
   #效果
 ![aa](https://yubinself123.gitee.io/docker-ubuntu-phpstudy/images/1.png)
+![aa](https://yubinself123.gitee.io/docker-ubuntu-phpstudy/images/2.png)
